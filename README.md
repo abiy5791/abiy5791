@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @abiy5791
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning at ASTU
-- 💞️ I’m looking to collaborate on development 
-- 📫 How to reach me by using my email --> abte5791@gmail.com 
+# 👋 Hi, I'm Abiy Teklu ([@abiy5791](https://github.com/abiy5791))!
 
-<!---
-abiy5791/abiy5791 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- 💻 **Passionate about Programming**  
+- 🎓 **Graduate** from **Adama Science and Technology University (ASTU)** with a Bachelor's in Computer Science and Engineering  
+- 🌱 Currently enhancing my skills in **Web Development**, **Mobile App Development** 
+- 🤝 Open to collaboration on development projects and learning opportunities
+
+## 🚀 Skills & Interests
+- **Languages & Frameworks**: React, Django, Flutter, JavaScript, Python  
+- **Tech Enthusiast**: Passionate about **Blockchain**, **Cryptocurrency**, and **AI**  
+
+## 💬 Let's Connect
+- 📧 Reach me at: [abte5791@gmail.com](mailto:abte5791@gmail.com)
+- 🔗 Follow me on [GitHub](https://github.com/abiy5791)
+
+Looking forward to connecting and collaborating! 💬✨
