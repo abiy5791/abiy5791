@@ -50,25 +50,32 @@ Building scalable web applications, backend systems, and practical digital platf
 
 ### QR Restaurant Menu & Ordering System
 
-A digital restaurant system where customers scan a QR code to view menus and place orders directly from their phones.
+A digital restaurant platform where customers scan a QR code to access menus and place orders directly from their phones. Designed to reduce manual ordering and improve restaurant workflow.
 
 ### QR Photo Album System
 
-A platform designed for photo studios allowing customers to securely access their photos through QR codes.
+A platform for photography studios that allows clients to securely access their photo albums through QR codes, simplifying photo delivery and client management.
+
+### Project Management System
+
+A web-based project management platform designed to manage project and all realted things with it. It helps organize project activities, monitor progress, and streamline development processes.
+
+### Tilet – E-commerce Platform
+
+An online e-commerce system designed for product listing, ordering, and customer management. Built to handle product catalogs, shopping workflows, and order processing.
 
 ### Community Platform
 
-A blog and forum platform enabling users to publish content and participate in discussions.
+A blog and forum system where users can publish content, participate in discussions, and engage with a community.
 
 ### Real-Time Chat System
 
-A messaging platform designed for communication within web applications.
+A messaging platform enabling real-time communication within web applications.
 
 ### Gym Management System
 
-A system designed to manage memberships, attendance, and daily operations for gyms.
+A management system for gyms that handles memberships, attendance tracking, and daily operational management.
 
----
 
 # 📊 GitHub Statistics
 
