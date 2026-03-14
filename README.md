@@ -9,7 +9,7 @@ Building scalable web applications, backend systems, and practical digital platf
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 * Full-Stack Developer focused on **modern web systems**
 * Experienced in **API development, database design, and frontend architecture**
@@ -18,7 +18,7 @@ Building scalable web applications, backend systems, and practical digital platf
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Frontend
 
@@ -46,7 +46,7 @@ Building scalable web applications, backend systems, and practical digital platf
 
 ---
 
-# 🧠 Featured Projects
+# Featured Projects
 
 ### QR Restaurant Menu & Ordering System
 
@@ -89,7 +89,7 @@ A management system for gyms that handles memberships, attendance tracking, and 
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiy5791" />
@@ -97,7 +97,7 @@ A management system for gyms that handles memberships, attendance tracking, and 
 
 ---
 
-# 🧩 Current Focus
+# Current Focus
 
 * Building scalable **backend architectures**
 * Improving **system security**
@@ -106,7 +106,7 @@ A management system for gyms that handles memberships, attendance tracking, and 
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p>
 <a href="https://github.com/abiy5791">GitHub</a>
@@ -114,7 +114,7 @@ A management system for gyms that handles memberships, attendance tracking, and 
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
